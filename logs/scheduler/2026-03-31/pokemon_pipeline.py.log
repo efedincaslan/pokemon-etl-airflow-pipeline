@@ -1,0 +1,165 @@
+[2026-03-31T15:36:13.430+0000] {processor.py:161} INFO - Started process (PID=172) to work on /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:36:13.435+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_pipeline.py for tasks to queue
+[2026-03-31T15:36:13.447+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:36:13.447+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:36:13.718+0000] {processor.py:840} INFO - DAG(s) 'pokemon_etl_pipeline' retrieved from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:36:14.154+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:36:14.153+0000] {override.py:1858} INFO - Created Permission View: can delete on DAG:pokemon_etl_pipeline
+[2026-03-31T15:36:14.167+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:36:14.167+0000] {override.py:1858} INFO - Created Permission View: can read on DAG:pokemon_etl_pipeline
+[2026-03-31T15:36:14.179+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:36:14.179+0000] {override.py:1858} INFO - Created Permission View: can edit on DAG:pokemon_etl_pipeline
+[2026-03-31T15:36:14.184+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:36:14.184+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-03-31T15:36:14.222+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:36:14.222+0000] {dag.py:3111} INFO - Creating ORM DAG for pokemon_etl_pipeline
+[2026-03-31T15:36:14.237+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:36:14.236+0000] {dag.py:3947} INFO - Setting next_dagrun for pokemon_etl_pipeline to 2026-03-30 00:00:00+00:00, run_after=2026-03-31 00:00:00+00:00
+[2026-03-31T15:36:14.291+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_pipeline.py took 0.874 seconds
+[2026-03-31T15:36:44.875+0000] {processor.py:161} INFO - Started process (PID=177) to work on /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:36:44.880+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_pipeline.py for tasks to queue
+[2026-03-31T15:36:44.884+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:36:44.884+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:36:45.005+0000] {processor.py:840} INFO - DAG(s) 'pokemon_etl_pipeline' retrieved from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:36:45.041+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:36:45.041+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-03-31T15:36:45.091+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:36:45.091+0000] {dag.py:3947} INFO - Setting next_dagrun for pokemon_etl_pipeline to 2026-03-30 00:00:00+00:00, run_after=2026-03-31 00:00:00+00:00
+[2026-03-31T15:36:45.131+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_pipeline.py took 0.262 seconds
+[2026-03-31T15:37:15.532+0000] {processor.py:161} INFO - Started process (PID=182) to work on /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:37:15.536+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_pipeline.py for tasks to queue
+[2026-03-31T15:37:15.539+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:37:15.539+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:37:15.602+0000] {processor.py:840} INFO - DAG(s) 'pokemon_etl_pipeline' retrieved from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:37:15.629+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:37:15.629+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-03-31T15:37:15.649+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:37:15.649+0000] {dag.py:3947} INFO - Setting next_dagrun for pokemon_etl_pipeline to 2026-03-30 00:00:00+00:00, run_after=2026-03-31 00:00:00+00:00
+[2026-03-31T15:37:15.687+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_pipeline.py took 0.161 seconds
+[2026-03-31T15:37:45.852+0000] {processor.py:161} INFO - Started process (PID=187) to work on /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:37:45.854+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_pipeline.py for tasks to queue
+[2026-03-31T15:37:45.856+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:37:45.856+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:37:45.898+0000] {processor.py:840} INFO - DAG(s) 'pokemon_etl_pipeline' retrieved from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:37:45.926+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:37:45.926+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-03-31T15:37:45.946+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:37:45.946+0000] {dag.py:3947} INFO - Setting next_dagrun for pokemon_etl_pipeline to 2026-03-30 00:00:00+00:00, run_after=2026-03-31 00:00:00+00:00
+[2026-03-31T15:37:45.963+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_pipeline.py took 0.118 seconds
+[2026-03-31T15:38:16.430+0000] {processor.py:161} INFO - Started process (PID=192) to work on /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:38:16.431+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_pipeline.py for tasks to queue
+[2026-03-31T15:38:16.434+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:38:16.433+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:38:16.498+0000] {processor.py:840} INFO - DAG(s) 'pokemon_etl_pipeline' retrieved from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:38:16.527+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:38:16.527+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-03-31T15:38:16.548+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:38:16.547+0000] {dag.py:3947} INFO - Setting next_dagrun for pokemon_etl_pipeline to 2026-03-30 00:00:00+00:00, run_after=2026-03-31 00:00:00+00:00
+[2026-03-31T15:38:16.572+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_pipeline.py took 0.148 seconds
+[2026-03-31T15:38:46.773+0000] {processor.py:161} INFO - Started process (PID=197) to work on /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:38:46.778+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_pipeline.py for tasks to queue
+[2026-03-31T15:38:46.781+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:38:46.780+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:38:46.884+0000] {processor.py:840} INFO - DAG(s) 'pokemon_etl_pipeline' retrieved from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:38:46.909+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:38:46.908+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-03-31T15:38:46.929+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:38:46.929+0000] {dag.py:3947} INFO - Setting next_dagrun for pokemon_etl_pipeline to 2026-03-30 00:00:00+00:00, run_after=2026-03-31 00:00:00+00:00
+[2026-03-31T15:38:46.945+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_pipeline.py took 0.178 seconds
+[2026-03-31T15:39:17.208+0000] {processor.py:161} INFO - Started process (PID=202) to work on /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:39:17.212+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_pipeline.py for tasks to queue
+[2026-03-31T15:39:17.216+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:39:17.216+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:39:17.330+0000] {processor.py:840} INFO - DAG(s) 'pokemon_etl_pipeline' retrieved from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:39:17.355+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:39:17.355+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-03-31T15:39:17.374+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:39:17.374+0000] {dag.py:3947} INFO - Setting next_dagrun for pokemon_etl_pipeline to 2026-03-30 00:00:00+00:00, run_after=2026-03-31 00:00:00+00:00
+[2026-03-31T15:39:17.395+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_pipeline.py took 0.192 seconds
+[2026-03-31T15:39:47.532+0000] {processor.py:161} INFO - Started process (PID=207) to work on /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:39:47.534+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_pipeline.py for tasks to queue
+[2026-03-31T15:39:47.537+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:39:47.536+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:39:47.577+0000] {processor.py:840} INFO - DAG(s) 'pokemon_etl_pipeline' retrieved from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:39:47.604+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:39:47.604+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-03-31T15:39:47.624+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:39:47.624+0000] {dag.py:3947} INFO - Setting next_dagrun for pokemon_etl_pipeline to 2026-03-30 00:00:00+00:00, run_after=2026-03-31 00:00:00+00:00
+[2026-03-31T15:39:47.643+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_pipeline.py took 0.116 seconds
+[2026-03-31T15:40:17.916+0000] {processor.py:161} INFO - Started process (PID=212) to work on /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:40:17.919+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_pipeline.py for tasks to queue
+[2026-03-31T15:40:17.923+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:40:17.923+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:40:18.008+0000] {processor.py:840} INFO - DAG(s) 'pokemon_etl_pipeline' retrieved from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:40:18.047+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:40:18.046+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-03-31T15:40:18.085+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:40:18.085+0000] {dag.py:3947} INFO - Setting next_dagrun for pokemon_etl_pipeline to 2026-03-30 00:00:00+00:00, run_after=2026-03-31 00:00:00+00:00
+[2026-03-31T15:40:18.131+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_pipeline.py took 0.222 seconds
+[2026-03-31T15:40:48.470+0000] {processor.py:161} INFO - Started process (PID=217) to work on /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:40:48.474+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_pipeline.py for tasks to queue
+[2026-03-31T15:40:48.478+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:40:48.478+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:40:48.521+0000] {processor.py:840} INFO - DAG(s) 'pokemon_etl_pipeline' retrieved from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:40:48.551+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:40:48.551+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-03-31T15:40:48.574+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:40:48.574+0000] {dag.py:3947} INFO - Setting next_dagrun for pokemon_etl_pipeline to 2026-03-30 00:00:00+00:00, run_after=2026-03-31 00:00:00+00:00
+[2026-03-31T15:40:48.609+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_pipeline.py took 0.145 seconds
+[2026-03-31T15:41:19.063+0000] {processor.py:161} INFO - Started process (PID=222) to work on /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:41:19.065+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_pipeline.py for tasks to queue
+[2026-03-31T15:41:19.071+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:41:19.071+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:41:19.188+0000] {processor.py:840} INFO - DAG(s) 'pokemon_etl_pipeline' retrieved from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:41:19.203+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:41:19.203+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-03-31T15:41:19.226+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:41:19.226+0000] {dag.py:3947} INFO - Setting next_dagrun for pokemon_etl_pipeline to 2026-03-30 00:00:00+00:00, run_after=2026-03-31 00:00:00+00:00
+[2026-03-31T15:41:19.246+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_pipeline.py took 0.188 seconds
+[2026-03-31T15:41:49.506+0000] {processor.py:161} INFO - Started process (PID=227) to work on /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:41:49.507+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_pipeline.py for tasks to queue
+[2026-03-31T15:41:49.509+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:41:49.509+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:41:49.549+0000] {processor.py:840} INFO - DAG(s) 'pokemon_etl_pipeline' retrieved from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:41:49.654+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:41:49.654+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-03-31T15:41:49.671+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:41:49.671+0000] {dag.py:3947} INFO - Setting next_dagrun for pokemon_etl_pipeline to 2026-03-30 00:00:00+00:00, run_after=2026-03-31 00:00:00+00:00
+[2026-03-31T15:41:49.690+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_pipeline.py took 0.190 seconds
+[2026-03-31T15:42:19.934+0000] {processor.py:161} INFO - Started process (PID=232) to work on /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:42:19.935+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_pipeline.py for tasks to queue
+[2026-03-31T15:42:19.938+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:42:19.938+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:42:19.989+0000] {processor.py:840} INFO - DAG(s) 'pokemon_etl_pipeline' retrieved from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:42:20.015+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:42:20.015+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-03-31T15:42:20.039+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:42:20.039+0000] {dag.py:3947} INFO - Setting next_dagrun for pokemon_etl_pipeline to 2026-03-30 00:00:00+00:00, run_after=2026-03-31 00:00:00+00:00
+[2026-03-31T15:42:20.065+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_pipeline.py took 0.137 seconds
+[2026-03-31T15:42:50.223+0000] {processor.py:161} INFO - Started process (PID=350) to work on /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:42:50.227+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_pipeline.py for tasks to queue
+[2026-03-31T15:42:50.232+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:42:50.231+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:42:50.310+0000] {processor.py:840} INFO - DAG(s) 'pokemon_etl_pipeline' retrieved from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:42:50.362+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:42:50.362+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-03-31T15:42:50.405+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:42:50.405+0000] {dag.py:3947} INFO - Setting next_dagrun for pokemon_etl_pipeline to 2026-03-31 00:00:00+00:00, run_after=2026-04-01 00:00:00+00:00
+[2026-03-31T15:42:50.436+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_pipeline.py took 0.222 seconds
+[2026-03-31T15:43:20.599+0000] {processor.py:161} INFO - Started process (PID=385) to work on /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:43:20.600+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_pipeline.py for tasks to queue
+[2026-03-31T15:43:20.602+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:43:20.602+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:43:20.638+0000] {processor.py:840} INFO - DAG(s) 'pokemon_etl_pipeline' retrieved from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:43:20.662+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:43:20.662+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-03-31T15:43:20.683+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:43:20.683+0000] {dag.py:3947} INFO - Setting next_dagrun for pokemon_etl_pipeline to 2026-03-31 00:00:00+00:00, run_after=2026-04-01 00:00:00+00:00
+[2026-03-31T15:43:20.704+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_pipeline.py took 0.109 seconds
+[2026-03-31T15:43:50.823+0000] {processor.py:161} INFO - Started process (PID=390) to work on /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:43:50.825+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_pipeline.py for tasks to queue
+[2026-03-31T15:43:50.828+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:43:50.827+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:43:50.866+0000] {processor.py:840} INFO - DAG(s) 'pokemon_etl_pipeline' retrieved from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:43:50.891+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:43:50.891+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-03-31T15:43:50.916+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:43:50.916+0000] {dag.py:3947} INFO - Setting next_dagrun for pokemon_etl_pipeline to 2026-03-31 00:00:00+00:00, run_after=2026-04-01 00:00:00+00:00
+[2026-03-31T15:43:50.940+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_pipeline.py took 0.122 seconds
+[2026-03-31T15:44:21.230+0000] {processor.py:161} INFO - Started process (PID=395) to work on /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:44:21.233+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_pipeline.py for tasks to queue
+[2026-03-31T15:44:21.237+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:44:21.236+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:44:21.276+0000] {processor.py:840} INFO - DAG(s) 'pokemon_etl_pipeline' retrieved from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:44:21.303+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:44:21.303+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-03-31T15:44:21.322+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:44:21.322+0000] {dag.py:3947} INFO - Setting next_dagrun for pokemon_etl_pipeline to 2026-03-31 00:00:00+00:00, run_after=2026-04-01 00:00:00+00:00
+[2026-03-31T15:44:21.343+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_pipeline.py took 0.118 seconds
+[2026-03-31T15:44:51.522+0000] {processor.py:161} INFO - Started process (PID=400) to work on /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:44:51.523+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_pipeline.py for tasks to queue
+[2026-03-31T15:44:51.525+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:44:51.525+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:44:51.576+0000] {processor.py:840} INFO - DAG(s) 'pokemon_etl_pipeline' retrieved from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:44:51.605+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:44:51.604+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-03-31T15:44:51.625+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:44:51.625+0000] {dag.py:3947} INFO - Setting next_dagrun for pokemon_etl_pipeline to 2026-03-31 00:00:00+00:00, run_after=2026-04-01 00:00:00+00:00
+[2026-03-31T15:44:51.643+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_pipeline.py took 0.129 seconds
+[2026-03-31T15:45:21.888+0000] {processor.py:161} INFO - Started process (PID=405) to work on /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:45:21.890+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_pipeline.py for tasks to queue
+[2026-03-31T15:45:21.897+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:45:21.896+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:45:21.942+0000] {processor.py:840} INFO - DAG(s) 'pokemon_etl_pipeline' retrieved from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:45:21.966+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:45:21.966+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-03-31T15:45:21.986+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:45:21.985+0000] {dag.py:3947} INFO - Setting next_dagrun for pokemon_etl_pipeline to 2026-03-31 00:00:00+00:00, run_after=2026-04-01 00:00:00+00:00
+[2026-03-31T15:45:22.005+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_pipeline.py took 0.122 seconds
+[2026-03-31T15:45:52.268+0000] {processor.py:161} INFO - Started process (PID=410) to work on /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:45:52.270+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_pipeline.py for tasks to queue
+[2026-03-31T15:45:52.273+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:45:52.273+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:45:52.316+0000] {processor.py:840} INFO - DAG(s) 'pokemon_etl_pipeline' retrieved from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:45:52.342+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:45:52.342+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-03-31T15:45:52.361+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:45:52.361+0000] {dag.py:3947} INFO - Setting next_dagrun for pokemon_etl_pipeline to 2026-03-31 00:00:00+00:00, run_after=2026-04-01 00:00:00+00:00
+[2026-03-31T15:45:52.384+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_pipeline.py took 0.121 seconds
+[2026-03-31T15:46:22.773+0000] {processor.py:161} INFO - Started process (PID=415) to work on /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:46:22.776+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_pipeline.py for tasks to queue
+[2026-03-31T15:46:22.781+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:46:22.780+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:46:22.859+0000] {processor.py:840} INFO - DAG(s) 'pokemon_etl_pipeline' retrieved from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:46:22.889+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:46:22.889+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-03-31T15:46:22.914+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:46:22.914+0000] {dag.py:3947} INFO - Setting next_dagrun for pokemon_etl_pipeline to 2026-03-31 00:00:00+00:00, run_after=2026-04-01 00:00:00+00:00
+[2026-03-31T15:46:22.937+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_pipeline.py took 0.169 seconds
+[2026-03-31T15:46:53.311+0000] {processor.py:161} INFO - Started process (PID=420) to work on /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:46:53.312+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_pipeline.py for tasks to queue
+[2026-03-31T15:46:53.315+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:46:53.315+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:46:53.373+0000] {processor.py:840} INFO - DAG(s) 'pokemon_etl_pipeline' retrieved from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:46:53.403+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:46:53.403+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-03-31T15:46:53.427+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:46:53.427+0000] {dag.py:3947} INFO - Setting next_dagrun for pokemon_etl_pipeline to 2026-03-31 00:00:00+00:00, run_after=2026-04-01 00:00:00+00:00
+[2026-03-31T15:46:53.448+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_pipeline.py took 0.142 seconds
+[2026-03-31T15:47:23.593+0000] {processor.py:161} INFO - Started process (PID=425) to work on /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:47:23.595+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_pipeline.py for tasks to queue
+[2026-03-31T15:47:23.600+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:47:23.600+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:47:23.660+0000] {processor.py:840} INFO - DAG(s) 'pokemon_etl_pipeline' retrieved from /opt/airflow/dags/pokemon_pipeline.py
+[2026-03-31T15:47:23.694+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:47:23.693+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-03-31T15:47:23.717+0000] {logging_mixin.py:188} INFO - [2026-03-31T15:47:23.717+0000] {dag.py:3947} INFO - Setting next_dagrun for pokemon_etl_pipeline to 2026-03-31 00:00:00+00:00, run_after=2026-04-01 00:00:00+00:00
+[2026-03-31T15:47:23.790+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_pipeline.py took 0.203 seconds
